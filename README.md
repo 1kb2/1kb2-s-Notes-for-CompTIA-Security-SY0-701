@@ -9,7 +9,31 @@ All content is written in my own words—no copyrighted material from Sybex or a
 My notes aim to simplify concepts and present them in a clear, practical way.
 
 ---
+## 📄 PDF Downloads
 
+Below are the downloadable PDF chapters from my Security+ SY0-701 notes release.
+
+---
+
+- [Chapter 1 — Today’s Security Professional](https://github.com/1kb2/1kb2-s-Notes-for-CompTIA-Security-SY0-701/releases/download/v1.0/Chapter.1_.Today.s.Security.Professional.pdf)
+- [Chapter 2 — Cybersecurity Threat Landscape](https://github.com/1kb2/1kb2-s-Notes-for-CompTIA-Security-SY0-701/releases/download/v1.0/Chapter.2_.Cybersecurity.Threat.Landscape.pdf)
+- [Chapter 3 — Malicious Code](https://github.com/1kb2/1kb2-s-Notes-for-CompTIA-Security-SY0-701/releases/download/v1.0/Chapter.3_.Malicious.Code.pdf)
+- [Chapter 4 — Social Engineering and Password Attacks](https://github.com/1kb2/1kb2-s-Notes-for-CompTIA-Security-SY0-701/releases/download/v1.0/Chapter.4_.Social.Engineering.and.Password.Attacks.pdf)
+- [Chapter 5 — Security Assessment and Testing](https://github.com/1kb2/1kb2-s-Notes-for-CompTIA-Security-SY0-701/releases/download/v1.0/Chapter.5_.Security.Assessment.and.Testing.pdf)
+- [Chapter 6 — Application Security](https://github.com/1kb2/1kb2-s-Notes-for-CompTIA-Security-SY0-701/releases/download/v1.0/Chapter.6_.Application.Security.pdf)
+- [Chapter 7 — Cryptography and the PKI](https://github.com/1kb2/1kb2-s-Notes-for-CompTIA-Security-SY0-701/releases/download/v1.0/Chapter.7_.Cryptography.and.the.PKI.pdf)
+- [Chapter 8 — Identity and Access Management](https://github.com/1kb2/1kb2-s-Notes-for-CompTIA-Security-SY0-701/releases/download/v1.0/Chapter.8_.Identity.and.Access.Management.pdf)
+- [Chapter 9 — Resilience and Physical Security](https://github.com/1kb2/1kb2-s-Notes-for-CompTIA-Security-SY0-701/releases/download/v1.0/Chapter.9_.Resilience.and.Physical.Security.pdf)
+- [Chapter 10 — Cloud and Virtualization Security](https://github.com/1kb2/1kb2-s-Notes-for-CompTIA-Security-SY0-701/releases/download/v1.0/Chapter.10_.Cloud.and.Virtualization.Security.pdf)
+- [Chapter 11 — Endpoint Security](https://github.com/1kb2/1kb2-s-Notes-for-CompTIA-Security-SY0-701/releases/download/v1.0/Chapter.11_.Endpoint.Security.pdf)
+- [Chapter 12 — Network Security](https://github.com/1kb2/1kb2-s-Notes-for-CompTIA-Security-SY0-701/releases/download/v1.0/Chapter.12_.Network.Security.pdf)
+- [Chapter 13 — Wireless and Mobile Security](https://github.com/1kb2/1kb2-s-Notes-for-CompTIA-Security-SY0-701/releases/download/v1.0/Chapter.13_.Wireless.and.Mobile.Security.pdf)
+- [Chapter 14 — Monitoring and Incident Response](https://github.com/1kb2/1kb2-s-Notes-for-CompTIA-Security-SY0-701/releases/download/v1.0/Chapter.14_.Monitoring.and.Incident.Response.pdf)
+- [Chapter 15 — Digital Forensics](https://github.com/1kb2/1kb2-s-Notes-for-CompTIA-Security-SY0-701/releases/download/v1.0/Chapter.15_.Digital.Forensics.pdf)
+- [Chapter 16 — Security Governance and Compliance](https://github.com/1kb2/1kb2-s-Notes-for-CompTIA-Security-SY0-701/releases/download/v1.0/Chapter.16_.Security.Governance.and.Compliance.pdf)
+- [Chapter 17 — Risk Management and Privacy](https://github.com/1kb2/1kb2-s-Notes-for-CompTIA-Security-SY0-701/releases/download/v1.0/Chapter.17_.Risk.Management.and.Privacy.pdf)
+
+---
 ## 🧠 Who This Is For  
 - Students preparing for the **Security+ SY0-701** exam  
 - Cybersecurity beginners  
