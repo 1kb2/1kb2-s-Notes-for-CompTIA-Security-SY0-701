@@ -6,14 +6,7 @@ A clean, organized collection of my personal study notes for the CompTIA Securit
 This repository contains **original notes created by me (1kb2)** while preparing for the Security+ SY0-701 certification.  
 All content is written in my own words—no copyrighted material from Sybex or any other source is included.
 
-The SY0-701 objectives introduced updated focus areas such as:
-- Modern threat actors and evolving attack techniques  
-- Zero Trust architecture  
-- Cloud, hybrid, and container security  
-- Automation, scripting, and SOAR concepts  
-- Updated risk management and governance frameworks  
-
-My notes aim to simplify these concepts and present them in a clear, practical way.
+My notes aim to simplify concepts and present them in a clear, practical way.
 
 ---
 
@@ -25,4 +18,15 @@ My notes aim to simplify these concepts and present them in a clear, practical w
 
 ---
 
-## 📂 Repository Structure (Example)
+## 📜 Disclaimer  
+These notes represent **my personal understanding** of the Security+ exam objectives and are not official CompTIA or Sybex material.  
+Please support official publishers and authors by purchasing legitimate study resources.
+
+---
+
+## ⭐ Support  
+If you find these notes helpful, consider giving the repo a ⭐ to help support the project and help others discover it.
+
+Good luck studying—go crush SY0-701!  
+
+<p align="center"><b>1kb2 — FOC-DivneOrderFromWithin</b></p>
