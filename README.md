@@ -1,11 +1,6 @@
 # 1kb2-s-Notes-for-CompTIA-Security-SY0-701
 A clean, organized collection of my personal study notes for the CompTIA Security+ SY0-701 certification exam. All content is written in my own words to help others learn and review the updated Security+ objectives.
 
-# Security+ SY0-701 Study Notes by 1kb2  
-A collection of my personal study notes for the CompTIA Security+ SY0-701 exam.  
-These notes are my own summaries and explanations based on what I learned while studying, including insights inspired by the Sybex Study Guide.
-
----
 
 ## 📘 About  
 This repository contains **original notes created by me (1kb2)** while preparing for the Security+ SY0-701 certification.  
